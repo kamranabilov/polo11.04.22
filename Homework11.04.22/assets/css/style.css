@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    background: linear-gradient(90deg, #05c5df, #4f7bff);
+    width: 100%;
+    height: 180px;
+    color: azure;
+    font-size: 20px;    
+    display: flex;    
+}
+.container .nav-link{
+    width: 100%;
+    height: 35px;
+    line-height: 30px;
+    border-bottom: 1px solid rgba(243, 234, 234, 0.59);
+}
+.nav-link .a{
+    left: 30px;
+    position: absolute;    
+}
+.nav-link .b{
+    position:absolute;    
+    left: 280px;
+}
+.container .nav-link .a1{
+    position: absolute;  
+    line-height: 30px;
+    font-size: 20px;
+    right: 100px;     
+}
+.nav-link .a2{
+    position: absolute;
+    line-height: 30px;
+    right: 150px;
+}
+.nav-link .a3{
+    position: absolute;
+    line-height: 30px;
+    right: 200px;
+}
+.nav-link .a4{
+    position: absolute;
+    line-height: 30px;
+    right: 250px;
+}
+.nav-link .a5{
+    position: absolute;
+    line-height: 30px;
+    right: 300px;
+}
+.nav-link .a6{
+    position: absolute;
+    line-height: 30px;
+    right: 350px;
+}
+.container .header h1{
+    position: absolute;
+    text-transform: uppercase;
+    top: 70px;
+    left: 30px;
+}
+.header .tab{
+    position: absolute;
+    left: 650px;
+    top: 60px;
+    font-size: 30px;
+    text-transform: uppercase;
+    line-height: 50px;
+}
+.header .tab1{
+    position: absolute;
+    right: 640px;
+    top: 60px;
+    font-size: 30px;
+    text-transform: uppercase;
+    line-height: 50px;
+}
+.header .tab2{
+    position: absolute;
+    right: 490px;
+    top: 60px;
+    font-size: 30px;
+    text-transform: uppercase;
+    line-height: 50px;
+}
+.header .tab3{
+    position: absolute;
+    right: 380px;
+    top: 60px;
+    font-size: 30px;
+    text-transform: uppercase;
+    line-height: 50px;
+}
+.header .tab4{
+    position: absolute;
+    right: 280px;
+    top: 60px;
+    font-size: 30px;
+    text-transform: uppercase;
+    line-height: 50px;
+}
+.header .sop{
+    position: absolute;
+    right: 190px;
+    top: 60px;
+    font-size: 30px;
+    text-transform: uppercase;
+    line-height: 50px;
+}
+.header .search{
+    position: absolute;
+    right: 130px;
+    top: 60px;
+    font-size: 25px;
+    text-transform: uppercase;
+    line-height: 50px;
+}
+.container .header .search1{
+    position: absolute;
+    right: 70px;
+    top: 50px;
+    font-size: 22px;
+    text-transform: uppercase;
+    line-height: 50px;
+}
+
+
